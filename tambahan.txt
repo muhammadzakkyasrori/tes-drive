@@ -3,3 +3,5 @@ rencana pemblejaran pwd
 2. html
 3. php
 4. javascript
+5. framewok
+6. struktur data
